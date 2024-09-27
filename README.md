@@ -1,2 +1,10 @@
-# Digital-music-store-Data-Analysis-using-SQL
-The "Digital Music Store Data Analysis" project involves using SQL to analyze a music store's database. Tasks include querying sales, customer, and song data to uncover trends, popular genres, and artist performance. Insights will help optimize marketing strategies, inventory management, and customer engagement, driving business growth.
+SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
+
+This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.Database and Tools
+Postgre SQL
+PgAdmin4
+Schema- Music Store Database
+![image](https://github.com/user-attachments/assets/be42fc71-1572-4bcf-9b86-1ffa20c7a9eb)
+
+MusicDatabaseSchema
